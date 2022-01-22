@@ -1,0 +1,98 @@
+[
+    {
+        "Key": 10,
+        "Product": "Seafood",
+        "Category": "Meat",
+        "Price": 85.60,
+        "Manufacturer": "BlackSee fish",
+        "ProductionDate": "2022-01-22"
+    },
+    {
+        "Key": 1,
+        "Product": "Coca Cola",
+        "Category": "Soft Drinks",
+        "Price": 2.00,
+        "Manufacturer": "Coca Cola Company",
+        "ProductionDate": "2022-01-20"
+    },
+    {
+        "Key": 3,
+        "Product": "Sprite",
+        "Category": "Soft Drinks",
+        "Price": 1.75,
+        "Manufacturer": "Coca Cola Company",
+        "ProductionDate": "2021-10-01"
+    },
+    {
+        "Key": 4,
+        "Product": "Milk",
+        "Category": "Dairy product",
+        "Price": 3.40,
+        "Manufacturer": "Ravno Pole",
+        "ProductionDate": "2022-01-21"
+    },
+    {
+        "Key": 2,
+        "Product": "Fanta",
+        "Category": "Soft Drinks",
+        "Price": 1.80,
+        "Manufacturer": "Coca Cola Company",
+        "ProductionDate": "2020-04-26"
+    },
+    {
+        "Key": 5,
+        "Product": "Butter",
+        "Category": "Dairy product",
+        "Price": 5.80,
+        "Manufacturer": "Ravno Pole",
+        "ProductionDate": "2021-12-18"
+    },
+    {
+        "Key": 7,
+        "Product": "Pork Meat",
+        "Category": "Meat",
+        "Price": 23.00,
+        "Manufacturer": "Meat Farm",
+        "ProductionDate": "2021-12-29"
+    },
+    {
+        "Key": 6,
+        "Product": "Cream",
+        "Category": "Dairy product",
+        "Price": 8.20,
+        "Manufacturer": "Olympus",
+        "ProductionDate": "2022-01-18"
+    },
+    {
+        "Key": 8,
+        "Product": "Beef Meat",
+        "Category": "Meat",
+        "Price": 56.70,
+        "Manufacturer": "Beef Farm",
+        "ProductionDate": "2021-12-30"
+    },
+    {
+        "Key": 9,
+        "Product": "Turkey Meat",
+        "Category": "Meat",
+        "Price": 12.00,
+        "Manufacturer": "Meat Farm",
+        "ProductionDate": "2022-01-15"
+    },
+    {
+        "Key": 11,
+        "Product": "Pepsi",
+        "Category": "Soft Drinks",
+        "Price": 2.00,
+        "Manufacturer": "Pepsi Company",
+        "ProductionDate": "2020-10-01"
+    },
+    {
+        "Key": 12,
+        "Product": "7Up",
+        "Category": "Soft Drinks",
+        "Price": 1.70,
+        "Manufacturer": "Pepsi Company",
+        "ProductionDate": "2021-12-11"
+    }
+]

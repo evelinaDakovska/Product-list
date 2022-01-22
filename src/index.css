@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+body {
+  margin: 0;
+  background-color: #fbf7f4;
+  font-family: "Lato", sans-serif;
+}
+
+.filter {
+  position: absolute;
+  right: 0;
+  background: #e8998d;
+  top: 10px;
+}
+
+.closedFilter {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  margin: 5px 0;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputPrice {
+  width: 50px;
+}
+
+.total {
+  margin: 20px 0;
+}
+
+.optionsAndTable {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.table {
+  width: 85%;
+  text-align: center;
+}
+
+thead {
+  background-color: #6c9a8b;
+  cursor: pointer;
+}
+
+.even {
+  background-color: #eed2cc;
+}
+
+.options{
+  width: 200px;
+  background-color: #e8998d;
+}
+
+.row:hover{
+  background-color: #e8998d;
+}
